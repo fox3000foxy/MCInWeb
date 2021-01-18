@@ -1,0 +1,92 @@
+[
+  [
+    [ 'dirt', 'dirt', 'dirt', 'dirt', 'dirt' ],
+    [
+      'grass_block',
+      'grass_block',
+      'grass_block',
+      'grass_block',
+      'grass_block'
+    ],
+    [ 'air', 'air', 'grass', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ]
+  ],
+  [
+    [ 'dirt', 'dirt', 'jungle_planks', 'dirt', 'dirt' ],
+    [
+      'grass_block',
+      'dirt',
+      'diamond_block',
+      'diamond_block',
+      'grass_block'
+    ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ]
+  ],
+  [
+    [ 'dirt', 'dirt', 'diamond_block', 'dirt', 'dirt' ],
+    [
+      'grass_block',
+      'diamond_block',
+      'diamond_block',
+      'diamond_block',
+      'warped_nylium'
+    ],
+    [ 'grass', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'nether_gold_ore', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ]
+  ],
+  [
+    [ 'dirt', 'dirt', 'dirt', 'dirt', 'dirt' ],
+    [
+      'birch_log',
+      'red_sand',
+      'redstone_ore',
+      'red_sand',
+      'jungle_planks'
+    ],
+    [ 'air', 'crimson_planks', 'jungle_planks', 'air', 'air' ],
+    [ 'air', 'warped_nylium', 'warped_nylium', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ]
+  ],
+  [
+    [ 'dirt', 'dirt', 'dirt', 'dirt', 'dirt' ],
+    [
+      'grass_block',
+      'dirt',
+      'jungle_planks',
+      'jungle_planks',
+      'birch_log'
+    ],
+    [ 'air', 'jungle_planks', 'jungle_planks', 'jungle_planks', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ],
+    [ 'air', 'air', 'air', 'air', 'air' ]
+  ]
+]
